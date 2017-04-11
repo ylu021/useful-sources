@@ -10,3 +10,4 @@ my links for easier access
 
 ## React  
 [arrow functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb)
+[life cycle](http://busypeoples.github.io/post/react-component-lifecycle/)
