@@ -7,3 +7,6 @@ my links for easier access
 
 ## CSS
 [fixed div and onscroll](http://jsfiddle.net/Re65k/1/)  
+
+## React  
+[arrow functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb)
