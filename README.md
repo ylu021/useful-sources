@@ -14,3 +14,7 @@ my links for easier access
 
 ## HTTP request testing 
 [Postman](https://www.getpostman.com/)
+
+## Cross Browser Test
+[Browsershots](browsershots.org)  
+[browsersync](https://www.browsersync.io/) - run it to watch html/css change in different browsers, has a control panel UI
