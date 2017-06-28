@@ -20,5 +20,5 @@ my links for easier access
 [browsersync](https://www.browsersync.io/) - run it to watch html/css change in different browsers, has a control panel UI
 
 ## Javascript Test
-[chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+[chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)  
 [framework Jest (include React Tree Snapshot Testing)](https://facebook.github.io/jest/)
