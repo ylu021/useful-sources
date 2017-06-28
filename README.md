@@ -21,3 +21,4 @@ my links for easier access
 
 ## Javascript Test
 [chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+[framework Jest (include React Tree Snapshot Testing)](https://facebook.github.io/jest/)
