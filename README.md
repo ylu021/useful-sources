@@ -18,3 +18,6 @@ my links for easier access
 ## Cross Browser Test
 [Browsershots](http://browsershots.org)  
 [browsersync](https://www.browsersync.io/) - run it to watch html/css change in different browsers, has a control panel UI
+
+## Javascript Test
+[chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
