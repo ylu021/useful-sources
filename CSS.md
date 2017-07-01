@@ -9,3 +9,8 @@
 ### UIs colors
 [webgradients](https://webgradients.com/)  
 
+### Font testing  
+[font map](http://fontmap.ideo.com/) - find font  
+[fontinuse](https://fontsinuse.com/search?terms=portfolio) - use cases  
+
+
